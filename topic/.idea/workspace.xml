@@ -1,19 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f648ae78-df5c-4814-a94b-3c3a22b94f54" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/MyDB.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MyInit.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pkg/mod/cache/download/github.com/golang/protobuf/@v/list" beforeDir="false" afterPath="$PROJECT_DIR$/../pkg/mod/cache/download/github.com/golang/protobuf/@v/list" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pkg/mod/cache/download/golang.org/x/sys/@v/list" beforeDir="false" afterPath="$PROJECT_DIR$/../pkg/mod/cache/download/golang.org/x/sys/@v/list" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pkg/mod/cache/download/golang.org/x/text/@v/list" beforeDir="false" afterPath="$PROJECT_DIR$/../pkg/mod/cache/download/golang.org/x/text/@v/list" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pkg/mod/cache/download/golang.org/x/tools/@v/list" beforeDir="false" afterPath="$PROJECT_DIR$/../pkg/mod/cache/download/golang.org/x/tools/@v/list" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/go.mod" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/go.sum" beforeDir="false" afterPath="$PROJECT_DIR$/go.sum" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TopicModel.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/TopicModel.go" afterDir="false" />
-    </list>
+    <list default="true" id="f648ae78-df5c-4814-a94b-3c3a22b94f54" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
